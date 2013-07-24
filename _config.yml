@@ -12,4 +12,4 @@ instagram:
   client_id: 'b30c56db9a884288af1e1c12fb6c34a1'
   captions: false
   limit: '1'
-  refresh: '60000'
+  refresh: '10000'
