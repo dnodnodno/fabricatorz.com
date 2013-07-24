@@ -54,6 +54,7 @@ article p {
 	width: 200px;
 	height: 200px;
 	margin: 0 auto;
+	opacity: 0.95;
 }
 
 .paper {
