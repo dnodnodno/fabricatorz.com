@@ -1,0 +1,15 @@
+title: "Fabricatorz"
+exclude: README.md, LICENSE.md
+
+tagline: "We are a design & technology company"
+description: "Fabricatorz - We are a design & technology company."
+keywords: ['fabricatorz', 'design', 'technology']
+
+repository: "https://github.com/Fabricatorz/fabricatorz.com"
+
+instagram:
+  tag: 'fabricatorz'
+  client_id: 'b30c56db9a884288af1e1c12fb6c34a1'
+  captions: false
+  limit: '1'
+  refresh: '60000'

@@ -2,3 +2,118 @@
    Add your site-specific styles here
    ========================================================================== */
 
+@font-face {
+  font-family: 'Titillium Web';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Titillium WebSemiBold'), local('TitilliumWeb-SemiBold'), url(https://themes.googleusercontent.com/static/fonts/titilliumweb/v1/anMUvcNT0H1YN4FII8wprx3QmhlKDgQgT1VN2Ed1WFo.woff) format('woff');
+}
+
+html, body {
+	color: #474649;
+	font-family: 'Titillium Web', sans-serif;
+}
+
+header {
+	padding-top: 100px;
+}
+
+a, a:visited {
+	color: #D43E37;
+	text-decoration: none;
+  -moz-transition: all .3s linear;
+    -webkit-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    transition: all .3s linear;
+}
+
+a:hover {
+	color: white;
+}
+
+.container {
+	width: 200px;
+	margin: 0 auto;
+}
+
+article {
+	position: relative;
+	font-size: 15px;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+}
+
+.chop {
+	display: block;
+	width: 200px;
+	height: 200px;
+	margin: 0 auto;
+}
+
+.paper {
+	display: block;
+	position: relative;
+	width: 100%;
+	height: 100%;
+	/*background: white;*/
+}
+
+.seal {
+	display: block;
+	position: absolute;
+	background-color: #D43E37;
+}
+
+.top-part {
+	top: 0;
+	width: 100%;
+	height: 14.28571428571429%;
+}
+
+.bottom-part {
+	bottom: 0;
+	width: 100%;
+	height: 14.28571428571429%;
+}
+
+.right-part {
+	right: 0;
+	height: 100%;
+	width: 14.28571428571429%;
+}
+
+.left-part {
+	left: 0;
+	height: 100%;
+	width: 14.28571428571429%;
+}
+
+.top-left-part {
+	left: 0;
+	top: 28.57142857142858%;
+	height: 14.28571428571429%;
+	width: 42.85714285714287%;
+}	
+
+.bottom-left-part {
+	left: 0;
+	bottom: 28.57142857142858%;
+	height: 14.28571428571429%;
+	width: 42.85714285714287%;
+}
+
+.top-right-part {
+	right: 0;
+	top: 28.57142857142858%;
+	height: 14.28571428571429%;
+	width: 42.85714285714287%;
+}
+
+.bottom-right-part {
+	right: 0;
+	bottom: 28.57142857142858%;
+	height: 14.28571428571429%;
+	width: 42.85714285714287%;
+}
