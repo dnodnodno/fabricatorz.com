@@ -45,6 +45,10 @@ article {
 	letter-spacing: 0.1em;
 }
 
+article p {
+	text-shadow: 2px 2px 3px #444;
+}
+
 .chop {
 	display: block;
 	width: 200px;
