@@ -1,5 +1,5 @@
 title: "Fabricatorz"
-exclude: README.md, LICENSE.md
+exclude: [README.md, LICENSE.md]
 
 tagline: "We are a design & technology company"
 description: "Fabricatorz - We are a design & technology company."
