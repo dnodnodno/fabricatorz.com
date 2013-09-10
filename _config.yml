@@ -12,6 +12,6 @@ piwik_site_id: 1
 instagram:
   tag: 'fabricatorz'
   client_id: 'b30c56db9a884288af1e1c12fb6c34a1'
-  captions: false
-  limit: '1'
-  refresh: '10000'
+  captions: true
+  limit: '20'
+  refresh: '300000'
