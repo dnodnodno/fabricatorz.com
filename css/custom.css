@@ -49,6 +49,10 @@ article p {
 	text-shadow: 2px 2px 3px #444;
 }
 
+#message {
+	color: #ccc;
+}
+
 .chop {
 	display: block;
 	width: 200px;
